@@ -1,6 +1,8 @@
 module tucuxi/leetcode-jump-game-vi
 
-go 1.18
+go 1.21
+
+toolchain go1.21.3
 
 require github.com/stretchr/testify v1.8.4
 
